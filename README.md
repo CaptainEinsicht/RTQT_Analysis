@@ -2,15 +2,19 @@
 matlab application of the bachelor thesis: "Implementierung einer Matlabapplikation zur Analyse optischer Quantenzustände".
 
 ---------------------------------------------------------------------------------------------------------------------------
+<p>	
+Messdaten_kohä includes:  
+<ul>
+<li>026_p5000_s1_d1000_l0070_m0300.txt --- Signal</li>
+<li>027_p5000_s0_d1000_l0070_m0300.txt --- LO</li>
+</ul>
 
-Messdaten_kohä includes:  -026_p5000_s1_d1000_l0070_m0300.txt   Signal
+Messdaten_therm includes:
 
-                          -027_p5000_s0_d1000_l0070_m0300.txt   LO
-                         
-Messdaten_therm includes: -020_p5000_s1_d1000_l0064_m0300.txt   Signal
+<ul>
+<li>020_p5000_s1_d1000_l0064_m0300.txt --- Signal</li>
+<li>021_p5000_s0_d1000_l0064_m0300.txt --- LO</li>
+</ul>
 
-                          -021_p5000_s0_d1000_l0064_m0300.txt   LO                          
-
---------------------------
-
-use a Signal and a LO togther to get a real result with the application RTQT_Analysis.m
+use a Signal and a LO togther to get a real result of the quantum state of the Signal
+</p>
