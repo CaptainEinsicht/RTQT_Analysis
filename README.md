@@ -4,9 +4,11 @@ matlab application of the bachelor thesis: "Implementierung einer Matlabapplikat
 ---------------------------------------------------------------------------------------------------------------------------
 
 Messdaten_kohä includes:  -026_p5000_s1_d1000_l0070_m0300.txt   Signal
+
                           -027_p5000_s0_d1000_l0070_m0300.txt   LO
                          
 Messdaten_therm includes: -020_p5000_s1_d1000_l0064_m0300.txt   Signal
+
                           -021_p5000_s0_d1000_l0064_m0300.txt   LO                          
 
 --------------------------
